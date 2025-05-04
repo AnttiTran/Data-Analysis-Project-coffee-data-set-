@@ -43,18 +43,18 @@ The goal of this project is to analyze the sales data of Coffee, a company that 
 After analyzing the data, the recommended top three cities for new store openings are:
 
 **City 1: Pune**  
-1. Average rent per customer is very low.  
-2. Highest total revenue.  
-3. Average sales per customer is also high.
+Lowest average rent per customer, ensuring high cost-efficiency.
+Highest total revenue among all cities analyzed.
+High average sales per customer, indicating strong purchasing behavior.
 
 **City 2: Delhi**  
-1. Highest estimated coffee consumers at 7.7 million.  
-2. Highest total number of customers, which is 68.  
-3. Average rent per customer is 330 (still under 500).
+Largest estimated coffee consumer base at approximately 7.7 million euros.
+Highest total number of customers recorded (68 customers).
+Average rent per customer is 330, which is well within the acceptable threshold of 50
 
 **City 3: Jaipur**  
-1. Highest number of customers, which is 69.  
-2. Average rent per customer is very low at 156.  
-3. Average sales per customer is better at 11.6k.
+Highest number of customers (69 customers).
+Very low average rent per customer at just 156.
+Strong average sales per customer at 11.6k, making it a high-potential market.
 
 ---
